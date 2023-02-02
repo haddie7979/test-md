@@ -5,7 +5,7 @@
 #### User Signup/Login
 
 <details>
-    <summary><code>POST</code><code><b>/api/signup</b></code><code>Adds user info and credentials to databse</code></summary>
+    <summary><code>POST</code> <code><b>/api/signup</b></code> <code>Adds user info and credentials to databse</code></summary>
 
 ##### Parameters
 
