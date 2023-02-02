@@ -13,3 +13,10 @@
 > | `lastname`  | required | string    | N/A         |
 > | `email`     | required | string    | N/A         |
 > | `password`  | required | string    | N/A         |
+
+##### Responses
+
+> | name       | type     | data type | description |
+> | ---------- | -------- | --------- | ----------- |
+> | `email`    | required | string    | N/A         |
+> | `password` | required | string    | N/A         |
