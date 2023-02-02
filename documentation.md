@@ -7,9 +7,9 @@
 
 ##### Parameters
 
-> | name      | type     | data type | description |
-> | --------- | -------- | --------- | ----------- |
-> | Firstname | required | string    | N/A         |
-> | Lastname  | required | string    | N/A         |
-> | Email     | required | string    | N/A         |
-> | Password  | required | string    | N/A         |
+> | name        | type     | data type | description |
+> | ----------- | -------- | --------- | ----------- |
+> | `firstname` | required | string    | N/A         |
+> | `lastname`  | required | string    | N/A         |
+> | `email`     | required | string    | N/A         |
+> | `password`  | required | string    | N/A         |
