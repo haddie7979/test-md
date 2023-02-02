@@ -1,7 +1,5 @@
 ## Scanner App API Documentation
 
----
-
 #### User Signup/Login
 
 <details>
